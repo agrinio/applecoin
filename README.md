@@ -1,0 +1,4 @@
+applecoin
+=========
+
+Cryptocurrency coin
